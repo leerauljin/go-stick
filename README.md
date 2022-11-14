@@ -1,6 +1,5 @@
 # (Progress) Stick for Go Lang
 Simple progress bar without any dependencies.
-No dependencies
 
 ## Supports
 - Percentage and Finished/Total task
