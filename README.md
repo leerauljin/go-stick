@@ -1,6 +1,8 @@
 # (Progress) Stick for Go Lang
 Simple progress bar without any dependencies.
 
+![default](imgs/default.gif)
+
 ## Supports
 - Percentage and Finished/Total task
 - Elapsed time and estimated finish time
@@ -28,6 +30,7 @@ for i := 0; i < 100; i++ {
 	bar.Add(1)
 }
 ```
+![default](imgs/character.gif)
 
 Custom sizing
 
@@ -39,3 +42,4 @@ for i := 0; i < 100; i++ {
 	bar.Add(1)
 }
 ```
+![default](imgs/length.gif)
